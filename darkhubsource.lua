@@ -1,3 +1,4 @@
+--Arsenal Script Here ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 if game.PlaceId == 286090429 then
 Client = {
     Modules = {
@@ -1291,14 +1292,8 @@ pcall(function()
     end
 end)
 end
-
-
-
-
-
-
-if PlaceId == 3233893879 then
 --Bad Business Script Here///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+if PlaceId == 3233893879 then
 pcall(function()
 
 --Load UI
@@ -1664,15 +1659,8 @@ game:GetService('Players').PlayerAdded:Connect(function(player)
 end)
 end)
 end
-
-
-
-
-
-
-
-if PlaceId == 3527629287 then
 --Big Paintball Script Here//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+if PlaceId == 3527629287 then
 local v1 = require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library"))
 v1.Message.New("Thanks for using Dark Hub!")
 v1.Message.New("Using an Alt? Make sure to use alts to keep your main safe!")  --stfu faggot adam
@@ -2105,17 +2093,8 @@ function(ColoRr)
 end
 )
 end
-
-
-
-
-
-
-
-
-
-if PlaceId == 263761432 then
 --Horrific Housing Script Here///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+if PlaceId == 263761432 then
 if game.CoreGui:FindFirstChild("DarkHub") then 
 game.CoreGui.DarkHub:Destroy()
 end
@@ -2189,19 +2168,8 @@ for _,v in pairs(game:GetService("Workspace").Spleef:GetDescendants()) do
 end
 end)
 end
-
-
-
-
-
-
-
-
-
-
-if game.PlaceId == 606849621 then
 --Jailbreak Script Here //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+if game.PlaceId == 606849621 then
 repeat wait() until game:IsLoaded() == true
 
 function Notif(Text,Time)
@@ -3205,7 +3173,7 @@ end)
 
 --Farming Tab
 
-MainStatus = Farming_Tab:Label('Farming Disabled For Rewrite')
+MainStatus = Farming_Tab:Label('blaž#4755 WAS HERE :troll:')
 
 function MyCar()
 for i,v in next, game:GetService("Workspace").Vehicles:GetChildren() do
@@ -3800,15 +3768,8 @@ end
 wait(0.3)
 Notif('DarkHub Injected...',5)
 end
-
-
-
-
-
-
-
+--Legends Of Speed Script Here /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 if game.PlaceId == 3101667897 then
---Legends Of Speed Script Here //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/whiteyume1/whiteyume1/main/darkhubuilib.lua"))()
 
 main = lib:Window()
@@ -3904,8 +3865,8 @@ for i,v in pairs(workspace.rewardChests:GetChildren()) do
 end
 end)
 end
+--Phantom Forces (blaž#4755 was here :troll:) /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 if game.PlaceId == 292439477 then
---Phantom Forces (blaž#4755 was here :troll:) //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 pcall(function()
 local Config = {
@@ -4810,16 +4771,8 @@ Services.RunService.Stepped:Connect(function()
 end)
 end)
 end
-
-
-
-
-
-
-
-
+--Ragdoll Engine Script Here///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 if game.PlaceId == 2041312716 then
---Ragdoll Engine Script Here////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/whiteyume1/whiteyume1/main/darkhubuilib.lua"))()
 
 local main = lib:CreateMain()
@@ -5040,18 +4993,8 @@ while true do
 end
 end)
 end
-
-
-
-
-
-
-
-
-
+--Sound Space Script Here//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 if game.PlaceId == 2377868063 then
---Sound Space Script Here/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/whiteyume1/whiteyume1/main/darkhubuilib.lua"))()
 main = lib:Window()
 Notif = getsenv(game.Players.LocalPlayer.PlayerScripts.SpecialMessageHandler).Announce
@@ -5231,18 +5174,8 @@ VRModule.GetWorldCFrame = SpoofCamera
 
 Notif({Msg = "DarkHub Loaded", Img = "TominoCZ"})
 end
-
-
-
-
-
-
-
-
-
-
+--Strucid Script Here//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 if game.PlaceId == 2377868063 then
---Strucid Script Here////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 local Config = {
 Visuals = {
 BoxEsp = false,
@@ -5414,11 +5347,11 @@ Config.Aimbot.TriggerBot = state
 end)
 
 Aimbot:Dropdown(
-"Aim Bone",{'Random','Head (Bannable!)','Torso','Left Arm','Right Arm','Left Leg','Right Leg'}, 
+"Aim Bone",{'Random','Head (cummable!)','Torso','Left Arm','Right Arm','Left Leg','Right Leg'}, 
 function(selected)
 if selected == "Random" then
   Config.Aimbot.RandomAimBone = true
-elseif selected == "Head (Bannable!)" then
+elseif selected == "Head (cummable!)" then
   Config.Aimbot.AimBone = "Head"
   Config.Aimbot.RandomAimBone = false
 elseif selected == "Torso" then
@@ -5501,7 +5434,7 @@ GunMods:Toggle('Infinite Ammo',function(state)
 Config.GunMods.InfAmmo = state
 end)
 
-GunMods:Toggle('Infinite Range ( Buggy )',function(state)
+GunMods:Toggle('Infinite Range ( cummy )',function(state)
 Config.GunMods.InfRange = state
 end)
 
@@ -5981,20 +5914,8 @@ end
 return RayHook(...)
 end))
 end
-
-
-
-
-
-
-
-
-
-
-
-
+--Tilty Tokens (darkhub's owner is a mother fucker)////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 if game.PlaceId == 15675702 then
---Tilty Tokens (darkhub's owner is a mother fucker)//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/whiteyume1/whiteyume1/main/darkhubuilib.lua"))()
 main = lib:Window()
 local w = main:Tab('DarkHub')
@@ -6014,15 +5935,8 @@ for i, v in pairs(workspace:GetChildren()) do
 end
 end)
 end
-
-
-
-
-
-
-
+--Tower Of Hell ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 if game.PlaceId == 1962086868 then
---Tower Of Hell
 y = game:GetService("Players").LocalPlayer.PlayerScripts.LocalScript
 getsenv(y).kick = function() return nil end
 getsenv(y).kick()
