@@ -46,20 +46,20 @@ local antivoid = false -- Teleport back up when you hit -7 or under.
 local prefix = ";" -- ONE PREFIX CHAR ONLY!
 
 local fkick = false
-local fkickmsg = ";kick "
-local fkick_keybind = "k"
+local fkickmsg = ""
+local fkick_keybind = ""
 
 local antikick = true -- enabled for protection xd
-local antikick_keybind = "p"
+local antikick_keybind = ""
 
-local pads_keybind = "n"
-local teleport_keybind = "b"
-local respawn_keybind = "v"
-local reset_keybind = "c"
-local forcefield_keybind = "x"
-local fly_keybind = "z"
-local AttachTO_keybind = "m"
-local gravity_keybind = "None" -- Secret keybind
+local pads_keybind = ""
+local teleport_keybind = ""
+local respawn_keybind = ""
+local reset_keybind = ""
+local forcefield_keybind = ""
+local fly_keybind = ""
+local AttachTO_keybind = ""
+local gravity_keybind = "" -- Secret keybind
 local AttachDelete_keybind = ""
 local allowcrash = false
 
